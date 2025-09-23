@@ -10,7 +10,30 @@ Different versions of the same system:
 
     Second Version:
         The second version evolves to the structured paradigm.
-        This paradigm utilizes code structures to better construct the code itself.
+        This paradigm utilizes code structures to better organize the code itself.
         This feels more like designing a system and less like going step by step.
         Notice that now we have used very defined structures to create the code itself,
         which helps on the understanding of it among other things.
+
+        Using this paradigm, it is easier to think in terms of system design and its 
+        requirements, instead of going "step-by-step".
+
+    Third version:
+        The third version of the calculator app uses the procedural paradigm.
+        This paradigm is very focused on functions and procedures. This allows for better
+        code organization and separation in modules that execute one task at a time.
+
+    * It is clear that the more we go to another paradigms, the more we reach into 
+    code organization and abstractions. The less "step-by-step" the process becomes.
+    By the third version, we're now thinking in terms of modules of that system, where
+    each module solve a problem and so something. *
+
+    Fourth Version:
+        This fourth version utilizes the object oriented programming. This paradigm 
+        allows the programmer to create blueprints for data and behaviour related to that
+        data, storing all related elements inside one place: a class.
+
+Through the evolution of the versions of this calculator program, we can clearly se how 
+we went from step-by-step thinking to more complex, abstract and system thinking. At the same 
+time, notice how even the fourth version has parts of imperative programming, but its part of 
+a bigger picture and not just that. 
