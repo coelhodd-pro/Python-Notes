@@ -1,0 +1,16 @@
+Different versions of the same system:
+(each version will have its script on this folder)
+
+    First Version: 
+        Purely using the imperative paradigm.
+        In this first version, I'm not thinking in terms of creating 
+        a system. I'm just coding. I'm almost thinking like a computer, that is,
+        thinking in terms of each step to solve the problem(in this case is to 
+        calculate two numbers). Its almost as if I'm figuring it out as I go along.
+
+    Second Version:
+        The second version evolves to the structured paradigm.
+        This paradigm utilizes code structures to better construct the code itself.
+        This feels more like designing a system and less like going step by step.
+        Notice that now we have used very defined structures to create the code itself,
+        which helps on the understanding of it among other things.
