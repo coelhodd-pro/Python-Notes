@@ -1,0 +1,26 @@
+Conditionals:
+    It is very common in programming to have to consider different situations
+    in order to act properly depending on those situations. For example, let's
+    say you're designing a system where if the user is above 18 more functionality
+    is available then if the user was below 18. Notice that there's a condition
+    in this: If the user is above 18 then let him/her access more functionalities.
+    If the user is not above 18 then do not let him/her acess those functionalities.
+    This is perfectly normal in programming and it happend quite a lot in computer
+    programs, because conditionals allow for the constructing of dynamic programs.
+
+=====
+
+Example of conditional in Python:
+
+    x = 10
+    if x > 5:
+        print("x is greater than 5")
+    else:
+        print("x is not greater than 5")
+
+    In this little program, we define a variable carrying the numerical value 10.
+    We then procede to analyze if that value if greater than 5 or not, through the
+    conditional structure called "if/else"
+
+    With this, we can act accordingly depending on different situations(in this 
+    case was comparing a number with a value of interest)

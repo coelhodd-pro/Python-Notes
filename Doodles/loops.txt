@@ -1,0 +1,23 @@
+Loops:
+    Loops are very useful because they will repeat the code inside the structure
+    until the condition for the loop to run is false. For example, we can think
+    of a situation like this: Imagine a program where we count from 100 to 1. 
+    Instead of printing one number after the other, we can create a loop and 
+    put code inside of it that will print one number after the other subtracting
+    1 each time. This loop will then run until we reach 1.
+
+    A loop always have a condition that makes it run... If that condition is false,
+    then the loop will either stop or not be activated at all.
+
+=====
+
+Example of loop in Python:
+
+    # using the program of the example above
+
+    x = 100
+    while x >= 1:
+        x -= 1
+        print(x)
+
+    # this loop will be active until x < 1

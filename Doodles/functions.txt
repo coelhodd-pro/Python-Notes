@@ -1,0 +1,23 @@
+Functions:
+    Functions are pieces of code that exist independently from the rest of the program.
+    A function is basically a functionality of your program. This functionality may be
+    something very simple like printing a message, or it could be something more complex
+    such as sorting your database depending on a parameter.
+
+    For the concept of functions to be clearer, let's think of this example: Imagine 
+    we have a program to register users on our system. We can have a function to ask
+    for the user's data, another to provide that data to the database, another to
+    search for a specific user inside the database and so on. Notice that each functionality
+    of the system exists through a function.
+
+    A function can also receive data so that it can process that data and provide new data 
+    to the program. This is possible through parameters and arguments(sending data for the 
+    function).
+
+=====
+
+Example of function in Python:
+
+    def addition(a, b):
+        return a + b
+
