@@ -1,0 +1,39 @@
+Data Types:
+
+    When dealing with computer programs, data types are also always present.
+    The reason for that is because data types define expected behaviour inside
+    a program. We always know how specific data behave or will behave in a program,
+    because data types define such behaviours. 
+
+    In other words, data types are a categorization of each data present inside a 
+    program. Depending on the category, the data will have different behaviour.
+    For example, we usually have numerical data, text data, structures and so on.
+    It is important to know however, that data types vary for each programming
+    language. This means that Python has different data types than JavaScript 
+    for example(although they are very similar).
+
+=====
+
+Data Types in Python:
+
+    str                             -> Textual data
+    int, float, complex             -> Numerical data
+    list, tuple, range              -> Sequence data
+    dict                            -> Mapping data
+    set, frozenset                  -> Set data
+    bool                            -> Boolean data
+    bytes, bytearray, memoryview    -> Binary data
+    NoneType                        -> None data
+
+    ---
+
+    Just like I have described right above, each category define behaviour for
+    the data that fits it. For example, with textual data I can do things 
+    related to text, such as counting how many letters there are in a word or
+    phrase, capitalizing the letters of a word, replacing a letter with another
+    one and so on. With numerical data I can check if the number is even or odd,
+    perform mathematical operations on it and so on. With boolean data types I
+    can use it to deal with true/false situations, such as on/off, and so on.
+    I cannot perform calculations to see if a word is even or odd or if a number
+    contains the letter "A", because these things are not allowed thanks to data
+    types.

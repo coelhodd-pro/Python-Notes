@@ -1,0 +1,13 @@
+Variables: 
+    Variables are containers for storing data inside a computer program.
+    In a more technical manner, variables are spaces in memory that we
+    utilize in order for our programs to function properly(because programs
+    must use computer memory to work).
+
+    For example, when we create a simple program such as grabbing a number
+    from the user and printing if its even or odd, we must use at least one
+    variable to store the user's input. This variable is a place inside the
+    computer's memory where the value the user provided gets stored.
+
+    Every computer program uses memory. Therefore variables are always
+    present inside a computer program.
