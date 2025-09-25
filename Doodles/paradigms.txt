@@ -1,0 +1,66 @@
+Programming Paradigms:
+    There are a bunch of paradigms inside the computer programming world.
+    Each paradigm defines how the code is structured and how you should build it.
+    Basically, in other words, programming paradigms are blueprints for how you 
+    should structure your system.
+
+    There are two main types of paradigms:
+        - imperative programming
+        - declarative programming
+
+    Both of these are fundamental to other paradigms, because they establish
+    the rules first. All of the other existing paradigms comes from each one
+    of these.
+
+=====
+
+Imperative Programming:
+    In imperative programming you're dealing with step by steps solutions.
+    You're writing code with almost no structure, straight to the point,
+    without worrying about structures and system design. In other words,
+    you're telling the computer exactly the steps it will have to execute
+    in order to solve the problem.
+
+
+Declarative programming:
+    In constrast with imperative programming, where you tell the computer 
+    how to act, with declarative programming you just tell the computer what
+    you want. It will then give you your answer. This is very common for 
+    tools like HTML/CSS, SQL and so on.
+
+=====
+
+Imperative Sons:
+    From the imperative paradigm three other paradigms were born:
+        - Structured Paradigm
+        - Procedural Paradigm
+        - Object Oriented Paradigm
+
+
+    Structured Paradigm:
+        This paradigm utilizes software structures to better control the flow
+        and structure of the code. For example, it utilizes functions, conditionals,
+        loops and much more, to create readable, understandable and easier to maintain
+        code.
+
+    Procedural Paradigm:
+        This paradigm focuses on modularity of the program through functions. Meaning,
+        each functionality of the program should be inside a procedure.
+
+    Object Oriented Paradigm:
+        Probably the most used paradigm nowaday of them all, the object oriented paradigm
+        focuses on creating blueprints for data inside the computer program. The idea here
+        is to create a structure where both the data and its behaviour are all defined
+        in one place. This makes the system much easier to control, even if its a bigger
+        system. Usually OOP is the most used paradigm for big system creation.
+
+    (even though all of these are different, they all use the imperative programming paradigm
+    under the hood to work properly. Which means: they all still need to tell the computer
+    exactly how to behave in order to achieve a goal.)
+
+
+
+
+
+
+
