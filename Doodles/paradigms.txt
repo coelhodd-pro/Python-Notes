@@ -59,8 +59,25 @@ Imperative Sons:
     exactly how to behave in order to achieve a goal.)
 
 
+Declarative Sons:
+    From the declarative paradigm two other paradigms were born:
+        - Functional Paradigm
+        - Logical Paradigm
 
+    Functional Paradigm:
+        This paradigm is purely based on the so called "pure functions"(functions that do not
+        alter the state of the program outside of the scope of the function). In other words,
+        a "pure function" exists basically as an alternative and subprogram inside the program
+        itself.
 
+        For example, in a random program we may have a function that alters the database, either
+        adding or removing a user from the system. This function is not considered pure, because
+        it alters the state of another part of the system. In contrast to this, we may have another
+        function that receives two numbers, calculates the sum of both of them and return the value.
+        This is known as pure function.
 
-
-
+     Logical Paradigm:
+        This paradigm exists within very specific languages, such as Prolog, Mercury and so on. 
+        The logical paradigm utilizes rules from logic itself, and is a much more mathematical
+        approach to programming than any other paradigm. This paradigm is probably the least used
+        paradigm of all.
