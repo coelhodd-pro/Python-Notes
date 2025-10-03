@@ -1,0 +1,63 @@
+OOP:
+    Object Oriented Programming is a programming paradigm very used nowadays.
+    The reason for its usability is because it allows the program to have great
+    structure and modularity. With OOP, everything is encapsulated onto different
+    modules that compose the program.
+
+    Python, by itself, is an object oriented language. Meaning that the language
+    itself uses object oriented structures inherently. When we program in Python
+    we're consequently using object oriented elements like classes and objects.
+
+    Almost everything in Python is an object, with its properties and methods.
+
+=====
+
+Classes:
+    OOP works through classes. 
+    
+    A class is an object constructor. It defines the behavior a certain object 
+    will have throughout the execution of the program. Basically, is a blueprint
+    for the object.
+
+Object:
+    The object is the fundamental element that powers this paradigm. 
+
+    It is an encapsulation of the class from which it comes from. It will carry
+    any variable, function and data defined inside that class. 
+
+    Think of it as: The class is a categorization of data and the object is the
+    element of that category. The category is a much broader and abstract concept
+    defining only categories. The element inside of it(object) interacts with other
+    elements. This interaction creates the program.
+
+=====
+
+Methods:
+    Every function inside OOP is called a "method". It still is a function, but
+    it has a different name.
+
+    When it comes to OOP, there are special methods that we can use to define
+    special behaviour to our objects. For example, the special method __init__() 
+    can be used to define code that will be executed everytime we create an object
+    from that class. As another example, the __str__() special method can be used
+    to define how the object would look like in a print() function, and so on...
+
+    Not only we can use special methods, but we can define our own methods aswell.
+    We do that by defining a regular function inside a class. That function will be
+    called a "method" of that class.
+
+    (We must ALWAYS define the first parameter of the method as "self")
+
+The "self" keyword:
+    The self keyword will be used to represent the instance of that class. In other 
+    words, the self keywords represent the object itself.
+
+    For example, in a class we can define a method to print the variables we define
+    inside of that class. To do that we access those variables using the notation:
+        
+        self.variable_identifier
+
+    The reason for that is because self represents the object where this operation
+    is happening and we're trying to access the variable inside that object.
+
+    (very shitty explanation lmao explaining is hard)
